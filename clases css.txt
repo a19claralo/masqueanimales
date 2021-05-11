@@ -1,0 +1,8 @@
+
+.ocultar {
+    display: none;
+}
+
+.navegacion {
+    background-color: purple;
+}
